@@ -26,7 +26,7 @@ Alternatively, you can run the notebook locally by following these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/analyse_immo_python.git
+   git clone git@github.com:remiDupont/AnalyseRealEstatePython.git
    ```
 
 2. Install the required dependencies:
