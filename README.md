@@ -22,6 +22,8 @@ To view the analysis, you can access the hosted output on GitHub Pages:
 
 [View the interactive map](https://remidupont.github.io//analyse_immo_python/)
 
+https://remidupont.github.io/AnalyseRealEstatePython/+nom_fichier
+
 Alternatively, you can run the notebook locally by following these steps:
 
 1. Clone the repository:
